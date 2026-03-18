@@ -25,12 +25,3 @@ This project implements a simple **Retrieval-Augmented Generation (RAG)** pipeli
   - Runs several example queries and prints the answers
 
 ---
-
-## Setup
-
-### 1. Create and activate a virtual environment (recommended)
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate        # macOS / Linux
-# .venv\Scripts\activate         # Windows (PowerShell/CMD)
